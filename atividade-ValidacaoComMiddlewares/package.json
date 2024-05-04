@@ -1,0 +1,20 @@
+{
+  "name": "gerenciamento-pessoas-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de pessoas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "gerenciamento",
+    "pessoas"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
